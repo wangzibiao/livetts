@@ -1,5 +1,6 @@
 # LiveTTS - AI智能直播助手
-源码无法公示，想了解软件的请移步哔哩哔哩查看【自学python写的AI无人直播助手功能讲解和教程文档【附下载连接+Chattts+indextts语音合成大模型下载】https://www.bilibili.com/video/BV1U48kzfEZh?vd_source=ba499e47ca8b3cf3d228a4f73afc9ac7，
+源码无法公示，想了解软件的请移步哔哩哔哩查看【自学python写的AI无人直播助手功能讲解和教程文档【附下载连接+Chattts+indextts语音合成大模型下载】https://www.bilibili.com/video/BV1U48kzfEZh?vd_source=ba499e47ca8b3cf3d228a4f73afc9ac7
+
 源码可出售。联系shenge0323
 ## 项目简介
 
